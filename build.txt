@@ -24,14 +24,14 @@ reference_projects=false
 mixin_extras_version=0.2.0-beta.8
 
 # Persistent mod info
-mod_id=example
-archive_name=example
-mod_name=example
-mod_description=Pexample.\nexample line.
-mod_authors=example
+mod_id=practice
+archive_name=Practice
+mod_name=practice
+mod_description=practice
+mod_authors=m1hono
 mod_license=MIT
 mod_credits=None
-issue_tracker_url=https://github.com/org/repo/issues
+issue_tracker_url=https://github.com/m1hono/Practice1201/issues
 
 # Maven Info
 # This is PickAID's maven repository, please do not use it for your own mods.
